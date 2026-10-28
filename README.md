@@ -1,6 +1,6 @@
 # Kamba Fashion Designs
 
-Editorial Next.js 15 marketing site for a bespoke bridal designer. Placeholder brand — global find/replace `Kamba` and `Kamba Fashion Designs` once you have the real one.
+Editorial Next.js 15 marketing site for a bespoke bridal designer.
 
 ## Run locally
 

@@ -1,4 +1,4 @@
-# Kamba Fashion Designs
+# Fashion Designs
 
 Editorial Next.js 15 marketing site for a bespoke bridal designer.
 

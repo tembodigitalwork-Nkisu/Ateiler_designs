@@ -47,10 +47,10 @@ Display: `Cormorant Garamond` (light/italic). Body: `Inter` (400/500). Editorial
 ## Replace before launch
 
 - **Photography** — every `picsum.photos/seed/...` URL is a placeholder. Swap for verified Unsplash photos (via `images.unsplash.com/photo-{id}` with confirmed IDs) or the designer's own portfolio.
-- **Brand name** — `Kamba Fashion Designs`, `kamba-fashion.example` URLs in `layout.js`, `sitemap.js`, `robots.js`, schema, and contact links.
+- **Brand name** — `Fashion Designs`, `ateiler-fashion.example` URLs in `layout.js`, `sitemap.js`, `robots.js`, schema, and contact links.
 - **Phone numbers** — placeholder `+0000000000`. Replace in Footer + Contact + AppointmentForm.
 - **Address** — placeholder "12 Rue de la Soie".
-- **Email** — `hello@kamba-fashion.example` is fake; wire AppointmentForm to a real backend (Resend / Formspree / etc.) before going live.
+- **Email** — `hello@ateiler-fashion.example` is fake; wire AppointmentForm to a real backend (Resend / Formspree / etc.) before going live.
 - **Map** — Contact page has a styled placeholder; embed a Google Maps iframe once the atelier location is confirmed.
 - **OG image** — schema points at `/og.jpg`; create a 1200×630 editorial cover before social shares.
 
